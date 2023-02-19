@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Triangle.cs~RFcc91e55.TMP" />
+  </ItemGroup>
+
 </Project>
